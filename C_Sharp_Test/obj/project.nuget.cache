@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ezXRaxr6S7nqSs1cjGjDrQz1nRmldNqwO6lTPNJLDxmAD+oos0z5/cLAGPt+RTBoJfAI265dzxzvkE5wSEK2Lg==",
+  "success": true,
+  "projectFilePath": "D:\\G947\\VS22repos\\C_Sharp_Test\\C_Sharp_Test\\C_Sharp_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

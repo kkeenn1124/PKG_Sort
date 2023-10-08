@@ -1,0 +1,50 @@
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.exe
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.deps.json
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.runtimeconfig.json
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.runtimeconfig.dev.json
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.pdb
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.csproj.AssemblyReference.cache
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.AssemblyInfoInputs.cache
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.AssemblyInfo.cs
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.csproj.CoreCompileInputs.cache
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.pdb
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.genruntimeconfig.cache
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\OneDrive - Orient Semiconductor Electronics Ltd\Kai_desktop\VS19repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.csproj.CopyComplete
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.exe
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.deps.json
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.runtimeconfig.json
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.runtimeconfig.dev.json
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\C_Sharp_Test.pdb
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Management.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.csproj.AssemblyReference.cache
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.AssemblyInfoInputs.cache
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.AssemblyInfo.cs
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.csproj.CoreCompileInputs.cache
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.csproj.CopyComplete
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.dll
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.pdb
+D:\G947\VS22repos\C_Sharp_Test\C_Sharp_Test\obj\Debug\netcoreapp3.1\C_Sharp_Test.genruntimeconfig.cache
